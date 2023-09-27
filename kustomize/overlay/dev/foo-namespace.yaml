@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: foo
+  labels:
+    environment-id: env_d8e4b7c3-8ee8-44e0-973e-e46251752748
+    project-id: project_eb0f8dfd-34b9-41d0-88e8-d10e396344db
+    project-name: TeslaHummingBird454225
+    environment-name: dev
+    organization-id: org_01b50229-db34-43d4-8f3e-d1aeb683d900
